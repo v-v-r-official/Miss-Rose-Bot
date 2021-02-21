@@ -22,7 +22,7 @@ hoi {}, my name is {}! if you have any questions about how to use me please give
 
 im a group manager bot maintained by @VKprojects
 
-My future updates will be put into This Channel - @Vkprojects & My Support Group @Vkpbots.
+My future updates will be put into This Channel - @Vkprojects & My Support Group @Vkp_bots.
 """
 
 HELP_STRINGS = """
